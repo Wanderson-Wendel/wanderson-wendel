@@ -32,7 +32,7 @@ Bem-vindo ao meu espaço digital, onde você pode encontrar um pouco sobre mim, 
   <a href="https://www.linkedin.com/in/wanderson-wendel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/Wanderson-Wendel/Wanderson-Wendel/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Wanderson-Wendel/Wanderson-Wendel/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Vamos Conectar?
