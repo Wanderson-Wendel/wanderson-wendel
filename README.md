@@ -13,9 +13,9 @@ Bem-vindo ao meu espaço digital, onde você pode encontrar um pouco sobre mim, 
 
 
 <div align="center">  
-<img width="49%" height="195%" src="https://github-readme-stats.vercel.app/api?username=wanderson-wendel&show_icons=true&hide_border=true&theme=transparent&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>  
+<img width="49%" height="195%" src="https://github-readme-stats.vercel.app/api?username=Wanderson-Wendel&show_icons=true&hide_border=true&theme=transparent&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>  
 
-<img width="41%" height="195%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderson-wendel&hide_progress=true&hide_progress=true&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>  
+<img width="41%" height="195%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderson-Wendel&hide_progress=true&hide_progress=true&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>  
 </div>
 
 <div style="display: inline_block"><br>
@@ -32,7 +32,7 @@ Bem-vindo ao meu espaço digital, onde você pode encontrar um pouco sobre mim, 
   <a href="https://www.linkedin.com/in/wanderson-wendel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/wanderson-wendel/wanderson-wendel/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Wanderson-Wendel/Wanderson-Wendel/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Vamos Conectar?
