@@ -2,8 +2,8 @@
 
 Bem-vindo ao meu espaço digital, onde você pode encontrar um pouco sobre mim, minhas habilidades, alguns projetos...
 
-- 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas(UFC).
-- 📚 Estudando para ser Desenvolvedor Web.
+- 👨‍💻 Graduado em Análise e Desenvolvimento de Sistemas(UFC).
+- 📚 Estudando para ser Desenvolvedor Front-End.
 - 🎯 Geek - Tecnologia - Música - Estudo.
 
 ### Aqui, você vai encontrar:
